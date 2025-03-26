@@ -5,8 +5,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ваш-username/ваш-репозиторий.git
-cd ваш-репозиторий
+git clone https://github.com/korsakov-kuzjma/todogo.git
+cd todogo
 go build -o todo
 ```
 
